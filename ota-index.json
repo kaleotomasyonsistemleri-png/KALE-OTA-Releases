@@ -1,21 +1,36 @@
 {
-  "schemaVersion": 1,
-  "channel": "stable",
-  "releases": [
-    {
-      "version": "60.3.1",
-      "buildId": "kale-6031-20260902180114",
-      "tag": "v60.3.1",
-      "releaseId": "ea4fd4f1-cccf-4afa-85d4-7ea19236d952",
-      "manifestUrl": "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.1/manifest.json",
-      "target": {
-        "mode": "companies",
-        "tokens": [
-          "b4ce5520dddc9d2320ec590cd3199e812c766d856827b4b84681db43b0b8a25c"
-        ]
-      },
-      "mandatory": false,
-      "publishedAtUtc": "2026-09-02T18:11:36.5959344Z"
-    }
-  ]
+    "schemaVersion":  1,
+    "channel":  "stable",
+    "releases":  [
+                     {
+                         "version":  "60.3.2",
+                         "buildId":  "kale-6032-20260902193112",
+                         "tag":  "v60.3.2",
+                         "releaseId":  "46a5dcc7-d758-4f11-845f-7b66c835e6ec",
+                         "manifestUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.2/manifest.json",
+                         "target":  {
+                                        "mode":  "companies",
+                                        "tokens":  [
+                                                       "b4ce5520dddc9d2320ec590cd3199e812c766d856827b4b84681db43b0b8a25c"
+                                                   ]
+                                    },
+                         "mandatory":  false,
+                         "publishedAtUtc":  "2026-09-02T19:41:34.3656783Z"
+                     },
+                     {
+                         "version":  "60.3.1",
+                         "buildId":  "kale-6031-20260902180114",
+                         "tag":  "v60.3.1",
+                         "releaseId":  "ea4fd4f1-cccf-4afa-85d4-7ea19236d952",
+                         "manifestUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.1/manifest.json",
+                         "target":  {
+                                        "mode":  "companies",
+                                        "tokens":  [
+                                                       "b4ce5520dddc9d2320ec590cd3199e812c766d856827b4b84681db43b0b8a25c"
+                                                   ]
+                                    },
+                         "mandatory":  false,
+                         "publishedAtUtc":  "2026-09-02T18:11:36.5959344Z"
+                     }
+                 ]
 }
