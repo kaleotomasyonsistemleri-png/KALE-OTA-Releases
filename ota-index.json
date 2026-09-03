@@ -3,6 +3,19 @@
     "channel":  "stable",
     "releases":  [
                      {
+                         "version":  "60.3.7",
+                         "buildId":  "kale-6037-20260903201823",
+                         "tag":  "v60.3.7",
+                         "releaseId":  "327fa28e-de2f-44ba-bf07-3ad088a4c0da",
+                         "manifestUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.7/manifest.json",
+                         "target":  {
+                                        "mode":  "all",
+                                        "tokens":  null
+                                    },
+                         "mandatory":  false,
+                         "publishedAtUtc":  "2026-09-03T20:26:16.8275123Z"
+                     },
+                     {
                          "version":  "60.3.6",
                          "buildId":  "kale-6036-20260903194905",
                          "tag":  "v60.3.6",
