@@ -1,7 +1,53 @@
-{
-    "schemaVersion":  1,
+﻿{
+    "schemaVersion":  2,
+    "provider":  "github_releases",
     "channel":  "stable",
+    "updatedAtUtc":  "2026-09-04T17:44:37.1262439Z",
+    "latest":  {
+                   "schemaVersion":  2,
+                   "provider":  "github_releases",
+                   "channel":  "stable",
+                   "version":  "60.3.8",
+                   "buildId":  "kale-6038-20260904173806",
+                   "releaseId":  "a29cfd68-4140-4d2d-bf7c-b66ad9d7dece",
+                   "tag":  "v60.3.8",
+                   "package":  {
+                                   "sizeBytes":  229813390,
+                                   "sha256":  "b30f893aa4f96a952371255416e195c6a1ea55d746fce2391ce57445bb73e499",
+                                   "fileName":  "KALE_Portable.zip"
+                               },
+                   "mandatory":  false,
+                   "publishedAtUtc":  "2026-09-04T17:44:37.1262439Z",
+                   "releaseNotes":  "60.3.8: kurulum sihirbazı müşteri oluşturma (firma reuse + provision idempotent), kurtarma e-posta etiketi; ilk giriş şifre kapısı kalıcı (OTA sonrası tekrar sormaz).",
+                   "target":  {
+                                  "mode":  "all"
+                              },
+                   "manifestUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.8/manifest.json",
+                   "packageUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.8/KALE_Portable.zip"
+               },
     "releases":  [
+                     {
+                         "schemaVersion":  2,
+                         "provider":  "github_releases",
+                         "channel":  "stable",
+                         "version":  "60.3.8",
+                         "buildId":  "kale-6038-20260904173806",
+                         "releaseId":  "a29cfd68-4140-4d2d-bf7c-b66ad9d7dece",
+                         "tag":  "v60.3.8",
+                         "package":  {
+                                         "sizeBytes":  229813390,
+                                         "sha256":  "b30f893aa4f96a952371255416e195c6a1ea55d746fce2391ce57445bb73e499",
+                                         "fileName":  "KALE_Portable.zip"
+                                     },
+                         "mandatory":  false,
+                         "publishedAtUtc":  "2026-09-04T17:44:37.1262439Z",
+                         "releaseNotes":  "60.3.8: kurulum sihirbazı müşteri oluşturma (firma reuse + provision idempotent), kurtarma e-posta etiketi; ilk giriş şifre kapısı kalıcı (OTA sonrası tekrar sormaz).",
+                         "target":  {
+                                        "mode":  "all"
+                                    },
+                         "manifestUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.8/manifest.json",
+                         "packageUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.8/KALE_Portable.zip"
+                     },
                      {
                          "version":  "60.3.7",
                          "buildId":  "kale-6037-20260903201823",
