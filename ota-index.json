@@ -2,30 +2,52 @@
     "schemaVersion":  2,
     "provider":  "github_releases",
     "channel":  "stable",
-    "updatedAtUtc":  "2026-09-04T18:04:38.6169404Z",
+    "updatedAtUtc":  "2026-09-04T18:36:22.2833410Z",
     "latest":  {
                    "schemaVersion":  2,
                    "provider":  "github_releases",
                    "channel":  "stable",
-                   "version":  "60.3.9",
-                   "buildId":  "kale-6039-20260904175748",
-                   "releaseId":  "33942612-a2fd-4b1d-899a-e61207263da3",
-                   "tag":  "v60.3.9",
+                   "version":  "60.3.10",
+                   "buildId":  "kale-60310-20260904182928",
+                   "releaseId":  "10d62c48-823f-429b-804d-9f2b53cc00a4",
+                   "tag":  "v60.3.10",
                    "package":  {
-                                   "sizeBytes":  229808661,
-                                   "sha256":  "ca72c877fa3c5e764c18e4d4a0175747f3570fcb6f93de3cc46036ad762c795e",
+                                   "sizeBytes":  229809269,
+                                   "sha256":  "7bac7396a4617a35138b002afb921bdd0469077666ba64549417b697f2b1d16b",
                                    "fileName":  "KALE_Portable.zip"
                                },
                    "mandatory":  false,
-                   "publishedAtUtc":  "2026-09-04T18:04:38.6169404Z",
-                   "releaseNotes":  "60.3.9: profil güvenlik (Son Giriş aktif; Oturumlar/Güvenlik geçmişi kaldırıldı; e-posta şifre değiştir + şifremi unuttum senkron); firma paneli RFID menü kaldırıldı.",
+                   "publishedAtUtc":  "2026-09-04T18:36:22.2833410Z",
+                   "releaseNotes":  "60.3.10: profil Genel altta Kayıt Et/DÜZENLE; giriş şifre göz ikonu sabit; provision hata mesajı iyileştirme.",
                    "target":  {
                                   "mode":  "all"
                               },
-                   "manifestUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.9/manifest.json",
-                   "packageUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.9/KALE_Portable.zip"
+                   "manifestUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.10/manifest.json",
+                   "packageUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.10/KALE_Portable.zip"
                },
     "releases":  [
+                     {
+                         "schemaVersion":  2,
+                         "provider":  "github_releases",
+                         "channel":  "stable",
+                         "version":  "60.3.10",
+                         "buildId":  "kale-60310-20260904182928",
+                         "releaseId":  "10d62c48-823f-429b-804d-9f2b53cc00a4",
+                         "tag":  "v60.3.10",
+                         "package":  {
+                                         "sizeBytes":  229809269,
+                                         "sha256":  "7bac7396a4617a35138b002afb921bdd0469077666ba64549417b697f2b1d16b",
+                                         "fileName":  "KALE_Portable.zip"
+                                     },
+                         "mandatory":  false,
+                         "publishedAtUtc":  "2026-09-04T18:36:22.2833410Z",
+                         "releaseNotes":  "60.3.10: profil Genel altta Kayıt Et/DÜZENLE; giriş şifre göz ikonu sabit; provision hata mesajı iyileştirme.",
+                         "target":  {
+                                        "mode":  "all"
+                                    },
+                         "manifestUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.10/manifest.json",
+                         "packageUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.10/KALE_Portable.zip"
+                     },
                      {
                          "schemaVersion":  2,
                          "provider":  "github_releases",
