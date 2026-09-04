@@ -3,21 +3,26 @@
     "channel":  "stable",
     "releases":  [
                      {
+                         "schemaVersion":  2,
+                         "provider":  "github_releases",
+                         "channel":  "stable",
                          "version":  "60.3.11",
                          "buildId":  "kale-60311-20260904190434",
                          "releaseId":  "2aef9429-493f-4e96-a0b6-8d8b91ea4abb",
                          "tag":  "v60.3.11",
-                         "channel":  "stable",
-                         "packageFileName":  "KALE_Portable.zip",
-                         "packageSha256":  "c79b4d7537e3399313c10b2b27757faab03729f320ec41edabb55223c8c8d54c",
-                         "packageSizeBytes":  229812811,
+                         "package":  {
+                                         "sizeBytes":  229812811,
+                                         "sha256":  "c79b4d7537e3399313c10b2b27757faab03729f320ec41edabb55223c8c8d54c",
+                                         "fileName":  "KALE_Portable.zip"
+                                     },
                          "mandatory":  false,
-                         "minVersion":  null,
-                         "releaseNotes":  "60.3.11: firma paneli Admin İletişim (yanıt/sil/destek maili); müşteri kodu sola; uzaktan bağlantı ikonu; konum izni otomatik; bildirim silme senkronu.",
-                         "publishedAtUtc":  "2026-09-04T19:14:43.6589414Z",
+                         "publishedAtUtc":  "2026-09-04T19:18:58.4456474Z",
+                         "releaseNotes":  "60.3.11: firma paneli Admin Iletisim (yanit/sil/destek maili); musteri kodu sola; uzaktan baglanti ikonu; konum izni otomatik; bildirim silme senkronu.",
                          "target":  {
                                         "mode":  "all"
-                                    }
+                                    },
+                         "manifestUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.11/manifest.json",
+                         "packageUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.11/KALE_Portable.zip"
                      },
                      {
                          "schemaVersion":  2,
@@ -34,7 +39,7 @@
                                      },
                          "mandatory":  false,
                          "publishedAtUtc":  "2026-09-04T18:36:22.2833410Z",
-                         "releaseNotes":  "60.3.10: profil Genel altta Kayıt Et/DÜZENLE; giriş şifre göz ikonu sabit; provision hata mesajı iyileştirme.",
+                         "releaseNotes":  "60.3.10: profil Genel altta Kay─▒t Et/D├£ZENLE; giri┼ş ┼şifre g├Âz ikonu sabit; provision hata mesaj─▒ iyile┼ştirme.",
                          "target":  {
                                         "mode":  "all"
                                     },
@@ -56,7 +61,7 @@
                                      },
                          "mandatory":  false,
                          "publishedAtUtc":  "2026-09-04T18:04:38.6169404Z",
-                         "releaseNotes":  "60.3.9: profil güvenlik (Son Giriş aktif; Oturumlar/Güvenlik geçmişi kaldırıldı; e-posta şifre değiştir + şifremi unuttum senkron); firma paneli RFID menü kaldırıldı.",
+                         "releaseNotes":  "60.3.9: profil g├╝venlik (Son Giri┼ş aktif; Oturumlar/G├╝venlik ge├ğmi┼şi kald─▒r─▒ld─▒; e-posta ┼şifre de─şi┼ştir + ┼şifremi unuttum senkron); firma paneli RFID men├╝ kald─▒r─▒ld─▒.",
                          "target":  {
                                         "mode":  "all"
                                     },
@@ -78,7 +83,7 @@
                                      },
                          "mandatory":  false,
                          "publishedAtUtc":  "2026-09-04T17:44:37.1262439Z",
-                         "releaseNotes":  "60.3.8: kurulum sihirbazı müşteri oluşturma (firma reuse + provision idempotent), kurtarma e-posta etiketi; ilk giriş şifre kapısı kalıcı (OTA sonrası tekrar sormaz).",
+                         "releaseNotes":  "60.3.8: kurulum sihirbaz─▒ m├╝┼şteri olu┼şturma (firma reuse + provision idempotent), kurtarma e-posta etiketi; ilk giri┼ş ┼şifre kap─▒s─▒ kal─▒c─▒ (OTA sonras─▒ tekrar sormaz).",
                          "target":  {
                                         "mode":  "all"
                                     },
