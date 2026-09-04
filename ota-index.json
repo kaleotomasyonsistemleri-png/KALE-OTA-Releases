@@ -1,31 +1,24 @@
-﻿{
+{
     "schemaVersion":  2,
-    "provider":  "github_releases",
     "channel":  "stable",
-    "updatedAtUtc":  "2026-09-04T18:36:22.2833410Z",
-    "latest":  {
-                   "schemaVersion":  2,
-                   "provider":  "github_releases",
-                   "channel":  "stable",
-                   "version":  "60.3.10",
-                   "buildId":  "kale-60310-20260904182928",
-                   "releaseId":  "10d62c48-823f-429b-804d-9f2b53cc00a4",
-                   "tag":  "v60.3.10",
-                   "package":  {
-                                   "sizeBytes":  229809269,
-                                   "sha256":  "7bac7396a4617a35138b002afb921bdd0469077666ba64549417b697f2b1d16b",
-                                   "fileName":  "KALE_Portable.zip"
-                               },
-                   "mandatory":  false,
-                   "publishedAtUtc":  "2026-09-04T18:36:22.2833410Z",
-                   "releaseNotes":  "60.3.10: profil Genel altta Kayıt Et/DÜZENLE; giriş şifre göz ikonu sabit; provision hata mesajı iyileştirme.",
-                   "target":  {
-                                  "mode":  "all"
-                              },
-                   "manifestUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.10/manifest.json",
-                   "packageUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.10/KALE_Portable.zip"
-               },
     "releases":  [
+                     {
+                         "version":  "60.3.11",
+                         "buildId":  "kale-60311-20260904190434",
+                         "releaseId":  "2aef9429-493f-4e96-a0b6-8d8b91ea4abb",
+                         "tag":  "v60.3.11",
+                         "channel":  "stable",
+                         "packageFileName":  "KALE_Portable.zip",
+                         "packageSha256":  "c79b4d7537e3399313c10b2b27757faab03729f320ec41edabb55223c8c8d54c",
+                         "packageSizeBytes":  229812811,
+                         "mandatory":  false,
+                         "minVersion":  null,
+                         "releaseNotes":  "60.3.11: firma paneli Admin İletişim (yanıt/sil/destek maili); müşteri kodu sola; uzaktan bağlantı ikonu; konum izni otomatik; bildirim silme senkronu.",
+                         "publishedAtUtc":  "2026-09-04T19:14:43.6589414Z",
+                         "target":  {
+                                        "mode":  "all"
+                                    }
+                     },
                      {
                          "schemaVersion":  2,
                          "provider":  "github_releases",
