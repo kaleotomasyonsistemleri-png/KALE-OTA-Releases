@@ -2,30 +2,52 @@
     "schemaVersion":  2,
     "provider":  "github_releases",
     "channel":  "stable",
-    "updatedAtUtc":  "2026-09-04T17:44:37.1262439Z",
+    "updatedAtUtc":  "2026-09-04T18:04:38.6169404Z",
     "latest":  {
                    "schemaVersion":  2,
                    "provider":  "github_releases",
                    "channel":  "stable",
-                   "version":  "60.3.8",
-                   "buildId":  "kale-6038-20260904173806",
-                   "releaseId":  "a29cfd68-4140-4d2d-bf7c-b66ad9d7dece",
-                   "tag":  "v60.3.8",
+                   "version":  "60.3.9",
+                   "buildId":  "kale-6039-20260904175748",
+                   "releaseId":  "33942612-a2fd-4b1d-899a-e61207263da3",
+                   "tag":  "v60.3.9",
                    "package":  {
-                                   "sizeBytes":  229813390,
-                                   "sha256":  "b30f893aa4f96a952371255416e195c6a1ea55d746fce2391ce57445bb73e499",
+                                   "sizeBytes":  229808661,
+                                   "sha256":  "ca72c877fa3c5e764c18e4d4a0175747f3570fcb6f93de3cc46036ad762c795e",
                                    "fileName":  "KALE_Portable.zip"
                                },
                    "mandatory":  false,
-                   "publishedAtUtc":  "2026-09-04T17:44:37.1262439Z",
-                   "releaseNotes":  "60.3.8: kurulum sihirbazı müşteri oluşturma (firma reuse + provision idempotent), kurtarma e-posta etiketi; ilk giriş şifre kapısı kalıcı (OTA sonrası tekrar sormaz).",
+                   "publishedAtUtc":  "2026-09-04T18:04:38.6169404Z",
+                   "releaseNotes":  "60.3.9: profil güvenlik (Son Giriş aktif; Oturumlar/Güvenlik geçmişi kaldırıldı; e-posta şifre değiştir + şifremi unuttum senkron); firma paneli RFID menü kaldırıldı.",
                    "target":  {
                                   "mode":  "all"
                               },
-                   "manifestUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.8/manifest.json",
-                   "packageUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.8/KALE_Portable.zip"
+                   "manifestUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.9/manifest.json",
+                   "packageUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.9/KALE_Portable.zip"
                },
     "releases":  [
+                     {
+                         "schemaVersion":  2,
+                         "provider":  "github_releases",
+                         "channel":  "stable",
+                         "version":  "60.3.9",
+                         "buildId":  "kale-6039-20260904175748",
+                         "releaseId":  "33942612-a2fd-4b1d-899a-e61207263da3",
+                         "tag":  "v60.3.9",
+                         "package":  {
+                                         "sizeBytes":  229808661,
+                                         "sha256":  "ca72c877fa3c5e764c18e4d4a0175747f3570fcb6f93de3cc46036ad762c795e",
+                                         "fileName":  "KALE_Portable.zip"
+                                     },
+                         "mandatory":  false,
+                         "publishedAtUtc":  "2026-09-04T18:04:38.6169404Z",
+                         "releaseNotes":  "60.3.9: profil güvenlik (Son Giriş aktif; Oturumlar/Güvenlik geçmişi kaldırıldı; e-posta şifre değiştir + şifremi unuttum senkron); firma paneli RFID menü kaldırıldı.",
+                         "target":  {
+                                        "mode":  "all"
+                                    },
+                         "manifestUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.9/manifest.json",
+                         "packageUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.9/KALE_Portable.zip"
+                     },
                      {
                          "schemaVersion":  2,
                          "provider":  "github_releases",
