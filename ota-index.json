@@ -6,6 +6,28 @@
                          "schemaVersion":  2,
                          "provider":  "github_releases",
                          "channel":  "stable",
+                         "version":  "60.3.21",
+                         "buildId":  "kale-60321-20260906151705",
+                         "releaseId":  "1bb4ec47-8727-4931-a16a-e0e64db3301a",
+                         "tag":  "v60.3.21",
+                         "package":  {
+                                         "sizeBytes":  288407187,
+                                         "sha256":  "dc37def15a4efe4bc2315fa846571154ff1d1c71f7531a467c4792e7d21f9424",
+                                         "fileName":  "KALE_Portable.zip"
+                                     },
+                         "mandatory":  false,
+                         "publishedAtUtc":  "2026-09-06T15:40:32.6133781Z",
+                         "releaseNotes":  "OTA stabilization: MAX SemVer resolver, obsolete pending invalidation, unique staging+retry, machine monotonic version, old-copy auto-forward, shortcut repair. Hard gates green (14/15/19 direct to 60.3.21).",
+                         "target":  {
+                                        "mode":  "all"
+                                    },
+                         "manifestUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.21/manifest.json",
+                         "packageUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.21/KALE_Portable.zip"
+                     },
+                     {
+                         "schemaVersion":  2,
+                         "provider":  "github_releases",
+                         "channel":  "stable",
                          "version":  "60.3.20",
                          "buildId":  "kale-60320-20260906143517",
                          "releaseId":  "2ddc6767-b9ce-4be8-9bc0-64eb0082fdbe",
@@ -371,5 +393,5 @@
                          "publishedAtUtc":  "2026-09-02T18:11:36.5959344Z"
                      }
                  ],
-    "updatedAtUtc":  "2026-09-06T14:42:58.7891191Z"
+    "updatedAtUtc":  "2026-09-06T15:43:24.8212280Z"
 }
