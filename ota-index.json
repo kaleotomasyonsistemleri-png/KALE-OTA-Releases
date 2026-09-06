@@ -6,6 +6,28 @@
                          "schemaVersion":  2,
                          "provider":  "github_releases",
                          "channel":  "stable",
+                         "version":  "60.3.20",
+                         "buildId":  "kale-60320-20260906143517",
+                         "releaseId":  "2ddc6767-b9ce-4be8-9bc0-64eb0082fdbe",
+                         "tag":  "v60.3.20",
+                         "package":  {
+                                         "sizeBytes":  288396148,
+                                         "sha256":  "b446d4c117013e71c024e08e27a97a84c2407bd05fcde973b21901dc0ee54723",
+                                         "fileName":  "KALE_Portable.zip"
+                                     },
+                         "mandatory":  false,
+                         "publishedAtUtc":  "2026-09-06T14:40:05.2189233Z",
+                         "releaseNotes":  "Support: Company to Admin unread/badge from Supabase central state; resolved/closed reopen; admin shell poll. OTA code frozen.",
+                         "target":  {
+                                        "mode":  "all"
+                                    },
+                         "manifestUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.20/manifest.json",
+                         "packageUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.20/KALE_Portable.zip"
+                     },
+                     {
+                         "schemaVersion":  2,
+                         "provider":  "github_releases",
+                         "channel":  "stable",
                          "version":  "60.3.19",
                          "buildId":  "kale-60319-20260906135350",
                          "releaseId":  "418d5aab-56a1-4672-8ffe-aae1f16f91f3",
@@ -349,5 +371,5 @@
                          "publishedAtUtc":  "2026-09-02T18:11:36.5959344Z"
                      }
                  ],
-    "updatedAtUtc":  "2026-09-06T14:01:11.6237243Z"
+    "updatedAtUtc":  "2026-09-06T14:42:58.7891191Z"
 }
