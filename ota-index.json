@@ -1,7 +1,29 @@
-{
+﻿{
     "schemaVersion":  2,
     "channel":  "stable",
     "releases":  [
+                     {
+                         "schemaVersion":  2,
+                         "provider":  "github_releases",
+                         "channel":  "stable",
+                         "version":  "60.3.13",
+                         "buildId":  "kale-60313-20260906102205",
+                         "releaseId":  "ad7937b1-8a3d-4489-a442-590c52722f8c",
+                         "tag":  "v60.3.13",
+                         "package":  {
+                                         "sizeBytes":  274556141,
+                                         "sha256":  "6bae26dfbcbc7d2c74da0a5da6784d9b2ccc9053a9637cb218b40dc060433631",
+                                         "fileName":  "KALE_Portable.zip"
+                                     },
+                         "mandatory":  false,
+                         "publishedAtUtc":  "2026-09-06T10:29:47.4392904Z",
+                         "releaseNotes":  "60.3.13: OTA LOCALAPPDATA staging + KALE.Kurulum.Onar one-click migrate to C:\\KALE\\Portable (OneDrive Access Denied fix).",
+                         "target":  {
+                                        "mode":  "all"
+                                    },
+                         "manifestUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.13/manifest.json",
+                         "packageUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.13/KALE_Portable.zip"
+                     },
                      {
                          "schemaVersion":  2,
                          "provider":  "github_releases",
@@ -17,7 +39,7 @@
                                      },
                          "mandatory":  false,
                          "publishedAtUtc":  "2026-09-06T09:58:06.6238178Z",
-                         "releaseNotes":  "60.3.12: Advanced Admin Iletisim / Destek Merkezi — Supabase sohbet, okundu tikleri, Gelen Mesajlar, admin inbox, durum akisi.",
+                         "releaseNotes":  "60.3.12: Advanced Admin Iletisim / Destek Merkezi ÔÇö Supabase sohbet, okundu tikleri, Gelen Mesajlar, admin inbox, durum akisi.",
                          "target":  {
                                         "mode":  "all"
                                     },
@@ -61,7 +83,7 @@
                                      },
                          "mandatory":  false,
                          "publishedAtUtc":  "2026-09-04T18:36:22.2833410Z",
-                         "releaseNotes":  "60.3.10: profil Genel altta Kay─▒t Et/D├£ZENLE; giri┼ş ┼şifre g├Âz ikonu sabit; provision hata mesaj─▒ iyile┼ştirme.",
+                         "releaseNotes":  "60.3.10: profil Genel altta KayÔöÇÔûÆt Et/DÔö£┬úZENLE; giriÔö╝┼ş Ôö╝┼şifre gÔö£├éz ikonu sabit; provision hata mesajÔöÇÔûÆ iyileÔö╝┼ştirme.",
                          "target":  {
                                         "mode":  "all"
                                     },
@@ -83,7 +105,7 @@
                                      },
                          "mandatory":  false,
                          "publishedAtUtc":  "2026-09-04T18:04:38.6169404Z",
-                         "releaseNotes":  "60.3.9: profil g├╝venlik (Son Giri┼ş aktif; Oturumlar/G├╝venlik ge├ğmi┼şi kald─▒r─▒ld─▒; e-posta ┼şifre de─şi┼ştir + ┼şifremi unuttum senkron); firma paneli RFID men├╝ kald─▒r─▒ld─▒.",
+                         "releaseNotes":  "60.3.9: profil gÔö£ÔòØvenlik (Son GiriÔö╝┼ş aktif; Oturumlar/GÔö£ÔòØvenlik geÔö£─şmiÔö╝┼şi kaldÔöÇÔûÆrÔöÇÔûÆldÔöÇÔûÆ; e-posta Ôö╝┼şifre deÔöÇ┼şiÔö╝┼ştir + Ôö╝┼şifremi unuttum senkron); firma paneli RFID menÔö£ÔòØ kaldÔöÇÔûÆrÔöÇÔûÆldÔöÇÔûÆ.",
                          "target":  {
                                         "mode":  "all"
                                     },
@@ -105,7 +127,7 @@
                                      },
                          "mandatory":  false,
                          "publishedAtUtc":  "2026-09-04T17:44:37.1262439Z",
-                         "releaseNotes":  "60.3.8: kurulum sihirbaz─▒ m├╝┼şteri olu┼şturma (firma reuse + provision idempotent), kurtarma e-posta etiketi; ilk giri┼ş ┼şifre kap─▒s─▒ kal─▒c─▒ (OTA sonras─▒ tekrar sormaz).",
+                         "releaseNotes":  "60.3.8: kurulum sihirbazÔöÇÔûÆ mÔö£ÔòØÔö╝┼şteri oluÔö╝┼şturma (firma reuse + provision idempotent), kurtarma e-posta etiketi; ilk giriÔö╝┼ş Ôö╝┼şifre kapÔöÇÔûÆsÔöÇÔûÆ kalÔöÇÔûÆcÔöÇÔûÆ (OTA sonrasÔöÇÔûÆ tekrar sormaz).",
                          "target":  {
                                         "mode":  "all"
                                     },
@@ -194,5 +216,6 @@
                          "mandatory":  false,
                          "publishedAtUtc":  "2026-09-02T18:11:36.5959344Z"
                      }
-                 ]
+                 ],
+    "updatedAtUtc":  "2026-09-06T10:29:47.4454181Z"
 }
