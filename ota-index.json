@@ -6,6 +6,28 @@
                          "schemaVersion":  2,
                          "provider":  "github_releases",
                          "channel":  "stable",
+                         "version":  "60.3.18",
+                         "buildId":  "kale-60318-20260906123847",
+                         "releaseId":  "ff70d9a8-3240-492a-b40b-7200871b0b6d",
+                         "tag":  "v60.3.18",
+                         "package":  {
+                                         "sizeBytes":  274599060,
+                                         "sha256":  "71699bb3568591260256160bdf208a736cab50c02bfb414562ec13d61d877805",
+                                         "fileName":  "KALE_Portable.zip"
+                                     },
+                         "mandatory":  false,
+                         "publishedAtUtc":  "2026-09-06T12:43:15.0575840Z",
+                         "releaseNotes":  "60.3.18: OneDrive/Desktop one-click GUVENLI KONUMA KUR VE GUNCELLE — noncanonical is warning not failure; migrate+update in one flow; prefer newer cached ZIP; switch if canonical already valid.",
+                         "target":  {
+                                        "mode":  "all"
+                                    },
+                         "manifestUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.18/manifest.json",
+                         "packageUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.18/KALE_Portable.zip"
+                     },
+                     {
+                         "schemaVersion":  2,
+                         "provider":  "github_releases",
+                         "channel":  "stable",
                          "version":  "60.3.17",
                          "buildId":  "kale-60317-20260906121729",
                          "releaseId":  "9a374ad6-0287-4ecd-be9c-269c3e6a72ea",
@@ -305,5 +327,5 @@
                          "publishedAtUtc":  "2026-09-02T18:11:36.5959344Z"
                      }
                  ],
-    "updatedAtUtc":  "2026-09-06T12:24:23.9168149Z"
+    "updatedAtUtc":  "2026-09-06T12:45:59.9231033Z"
 }
