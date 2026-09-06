@@ -6,6 +6,28 @@
                          "schemaVersion":  2,
                          "provider":  "github_releases",
                          "channel":  "stable",
+                         "version":  "60.3.14",
+                         "buildId":  "kale-60314-20260906110432",
+                         "releaseId":  "6be989cd-d7dd-4e71-ba82-cbc58e54e354",
+                         "tag":  "v60.3.14",
+                         "package":  {
+                                         "sizeBytes":  274589197,
+                                         "sha256":  "b6691ea7c96f89f4b7db1a4a545f3cdbbcc8bbe8a12f809cd8555b5261711247",
+                                         "fileName":  "KALE_Portable.zip"
+                                     },
+                         "mandatory":  false,
+                         "publishedAtUtc":  "2026-09-06T11:11:45.3817466Z",
+                         "releaseNotes":  "60.3.14: install success/relaunch handshake fix",
+                         "target":  {
+                                        "mode":  "all"
+                                    },
+                         "manifestUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.14/manifest.json",
+                         "packageUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.14/KALE_Portable.zip"
+                     },
+                     {
+                         "schemaVersion":  2,
+                         "provider":  "github_releases",
+                         "channel":  "stable",
                          "version":  "60.3.13",
                          "buildId":  "kale-60313-20260906102205",
                          "releaseId":  "ad7937b1-8a3d-4489-a442-590c52722f8c",
@@ -217,5 +239,5 @@
                          "publishedAtUtc":  "2026-09-02T18:11:36.5959344Z"
                      }
                  ],
-    "updatedAtUtc":  "2026-09-06T10:29:47.4454181Z"
+    "updatedAtUtc":  "2026-09-06T11:11:45.3817466Z"
 }
