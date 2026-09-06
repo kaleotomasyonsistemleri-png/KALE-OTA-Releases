@@ -6,6 +6,28 @@
                          "schemaVersion":  2,
                          "provider":  "github_releases",
                          "channel":  "stable",
+                         "version":  "60.3.19",
+                         "buildId":  "kale-60319-20260906135350",
+                         "releaseId":  "418d5aab-56a1-4672-8ffe-aae1f16f91f3",
+                         "tag":  "v60.3.19",
+                         "package":  {
+                                         "sizeBytes":  288390354,
+                                         "sha256":  "e37d24bbb7d082c87340321c5fcba1956e6bfdf0e7582d8b17f5870a9d6a62ed",
+                                         "fileName":  "KALE_Portable.zip"
+                                     },
+                         "mandatory":  false,
+                         "publishedAtUtc":  "2026-09-06T13:58:16.7056628Z",
+                         "releaseNotes":  "Zero-touch OTA: legacy 60.3.14 handoff-safe updater (survive redirected stdout/stderr + parent exit). In-app KUR only — no customer recovery EXE.",
+                         "target":  {
+                                        "mode":  "all"
+                                    },
+                         "manifestUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.19/manifest.json",
+                         "packageUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.19/KALE_Portable.zip"
+                     },
+                     {
+                         "schemaVersion":  2,
+                         "provider":  "github_releases",
+                         "channel":  "stable",
                          "version":  "60.3.18",
                          "buildId":  "kale-60318-20260906123847",
                          "releaseId":  "ff70d9a8-3240-492a-b40b-7200871b0b6d",
@@ -327,5 +349,5 @@
                          "publishedAtUtc":  "2026-09-02T18:11:36.5959344Z"
                      }
                  ],
-    "updatedAtUtc":  "2026-09-06T12:45:59.9231033Z"
+    "updatedAtUtc":  "2026-09-06T14:01:11.6237243Z"
 }
