@@ -6,6 +6,28 @@
                          "schemaVersion":  2,
                          "provider":  "github_releases",
                          "channel":  "stable",
+                         "version":  "60.3.17",
+                         "buildId":  "kale-60317-20260906121729",
+                         "releaseId":  "9a374ad6-0287-4ecd-be9c-269c3e6a72ea",
+                         "tag":  "v60.3.17",
+                         "package":  {
+                                         "sizeBytes":  274592374,
+                                         "sha256":  "5755e3f61b2f05fddfcf7a53ed1436f4862bdc5b09bf6000ea250c6ecf971f6f",
+                                         "fileName":  "KALE_Portable.zip"
+                                     },
+                         "mandatory":  false,
+                         "publishedAtUtc":  "2026-09-06T12:21:36.7655522Z",
+                         "releaseNotes":  "60.3.17: OneDrive/Desktop OTA uyarısı engel gibi görünmesin — KUR guvenli konuma (C:\\KALE\\Portable) kurar; net mesaj + GUVENLI KONUMA KUR.",
+                         "target":  {
+                                        "mode":  "all"
+                                    },
+                         "manifestUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.17/manifest.json",
+                         "packageUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.17/KALE_Portable.zip"
+                     },
+                     {
+                         "schemaVersion":  2,
+                         "provider":  "github_releases",
+                         "channel":  "stable",
                          "version":  "60.3.16",
                          "buildId":  "kale-60316-20260906120718",
                          "releaseId":  "2ebf8128-14e9-4a00-8c78-1f52d43b114c",
@@ -283,5 +305,5 @@
                          "publishedAtUtc":  "2026-09-02T18:11:36.5959344Z"
                      }
                  ],
-    "updatedAtUtc":  "2026-09-06T12:14:29.0303712Z"
+    "updatedAtUtc":  "2026-09-06T12:24:23.9168149Z"
 }
