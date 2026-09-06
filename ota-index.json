@@ -6,6 +6,28 @@
                          "schemaVersion":  2,
                          "provider":  "github_releases",
                          "channel":  "stable",
+                         "version":  "60.3.12",
+                         "buildId":  "kale-60312-20260906095142",
+                         "releaseId":  "f5966811-0f1a-4423-90cb-284d9cdaae4f",
+                         "tag":  "v60.3.12",
+                         "package":  {
+                                         "sizeBytes":  229818583,
+                                         "sha256":  "e2534a1c12b7927b35fde9c39b7ad355820f32c0eb11420df7223c5bc046680d",
+                                         "fileName":  "KALE_Portable.zip"
+                                     },
+                         "mandatory":  false,
+                         "publishedAtUtc":  "2026-09-06T09:58:06.6238178Z",
+                         "releaseNotes":  "60.3.12: Advanced Admin Iletisim / Destek Merkezi — Supabase sohbet, okundu tikleri, Gelen Mesajlar, admin inbox, durum akisi.",
+                         "target":  {
+                                        "mode":  "all"
+                                    },
+                         "manifestUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.12/manifest.json",
+                         "packageUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.12/KALE_Portable.zip"
+                     },
+                     {
+                         "schemaVersion":  2,
+                         "provider":  "github_releases",
+                         "channel":  "stable",
                          "version":  "60.3.11",
                          "buildId":  "kale-60311-20260904190434",
                          "releaseId":  "2aef9429-493f-4e96-a0b6-8d8b91ea4abb",
