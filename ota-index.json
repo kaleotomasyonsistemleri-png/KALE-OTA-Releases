@@ -1,7 +1,29 @@
-﻿{
+{
     "schemaVersion":  2,
     "channel":  "stable",
     "releases":  [
+                     {
+                         "schemaVersion":  2,
+                         "provider":  "github_releases",
+                         "channel":  "stable",
+                         "version":  "60.3.15",
+                         "buildId":  "kale-60315-20260906114156",
+                         "releaseId":  "6877a5c3-f280-4193-b3df-8c82fa6051e5",
+                         "tag":  "v60.3.15",
+                         "package":  {
+                                         "sizeBytes":  274592413,
+                                         "sha256":  "57267b533b1014abf1c43c87de31e1b7338568bbbffe67ee9a5a42a719c4874a",
+                                         "fileName":  "KALE_Portable.zip"
+                                     },
+                         "mandatory":  false,
+                         "publishedAtUtc":  "2026-09-06T11:48:59.0000000Z",
+                         "releaseNotes":  "60.3.15 Central Admin Notification Center: Supabase authority for Admin-\u003ecompany/user notices; cross-PC fetch; per-user receipts; separate from Support Center.",
+                         "target":  {
+                                        "mode":  "all"
+                                    },
+                         "manifestUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.15/manifest.json",
+                         "packageUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.15/KALE_Portable.zip"
+                     },
                      {
                          "schemaVersion":  2,
                          "provider":  "github_releases",
@@ -239,5 +261,5 @@
                          "publishedAtUtc":  "2026-09-02T18:11:36.5959344Z"
                      }
                  ],
-    "updatedAtUtc":  "2026-09-06T11:11:45.3817466Z"
+    "updatedAtUtc":  "2026-09-06T11:59:12.1479473Z"
 }
