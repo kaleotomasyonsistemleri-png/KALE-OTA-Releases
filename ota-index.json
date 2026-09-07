@@ -6,6 +6,28 @@
                          "schemaVersion":  2,
                          "provider":  "github_releases",
                          "channel":  "stable",
+                         "version":  "60.3.25",
+                         "buildId":  "kale-60325-20260907171731",
+                         "releaseId":  "3a9e12ca-2bc1-490e-8d92-aa0cc5c23669",
+                         "tag":  "v60.3.25",
+                         "package":  {
+                                         "sizeBytes":  333128545,
+                                         "sha256":  "3ab2f0fc5193525317ed21dd6215d7cdbbc5a530c715518d560369c4c820592b",
+                                         "fileName":  "KALE_Portable.zip"
+                                     },
+                         "mandatory":  false,
+                         "publishedAtUtc":  "2026-09-07T17:27:15.7240754Z",
+                         "releaseNotes":  "File-level delta OTA (optional): reconstruct verified target tree in LocalAppData staging with FULL package fallback. ota-index unchanged; separate ota-delta-index.json. First delta-capable client - legacy installs reach 60.3.25 via FULL ZIP. No binary patching. Latest-only resolver preserved.",
+                         "target":  {
+                                        "mode":  "all"
+                                    },
+                         "manifestUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.25/manifest.json",
+                         "packageUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.25/KALE_Portable.zip"
+                     },
+                     {
+                         "schemaVersion":  2,
+                         "provider":  "github_releases",
+                         "channel":  "stable",
                          "version":  "60.3.23",
                          "buildId":  "kale-60323-20260906163948",
                          "releaseId":  "d339c1e9-b915-4d35-8e41-dfa4476e46f7",
@@ -437,5 +459,5 @@
                          "publishedAtUtc":  "2026-09-02T18:11:36.5959344Z"
                      }
                  ],
-    "updatedAtUtc":  "2026-09-06T17:02:24.4187880Z"
+    "updatedAtUtc":  "2026-09-07T17:28:44.9498351Z"
 }
