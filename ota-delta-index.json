@@ -1,0 +1,22 @@
+{
+    "schemaVersion":  1,
+    "channel":  "stable",
+    "latestVersion":  "60.3.25",
+    "updatedAtUtc":  "2026-09-07T17:35:04.5479335Z",
+    "releases":  [
+                     {
+                         "targetVersion":  "60.3.25",
+                         "targetBuildId":  "kale-60325-20260907171731",
+                         "targetReleaseId":  "3a9e12ca-2bc1-490e-8d92-aa0cc5c23669",
+                         "fullPackage":  {
+                                             "url":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.25/KALE_Portable.zip",
+                                             "size":  333128545,
+                                             "sha256":  "3ab2f0fc5193525317ed21dd6215d7cdbbc5a530c715518d560369c4c820592b"
+                                         },
+                         "deltas":  [
+
+                                    ],
+                         "note":  "No published deltas: critical bootstrap/updater files changed vs prior bases; FULL fallback required. Delta-capable client bootstrapped via FULL."
+                     }
+                 ]
+}
