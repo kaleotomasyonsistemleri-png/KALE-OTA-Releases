@@ -6,6 +6,28 @@
                          "schemaVersion":  2,
                          "provider":  "github_releases",
                          "channel":  "stable",
+                         "version":  "60.3.27",
+                         "buildId":  "kale-60327-20260908102156",
+                         "releaseId":  "4abf7ced-740f-4b33-9e6c-3b48c16648f3",
+                         "tag":  "v60.3.27",
+                         "package":  {
+                                         "sizeBytes":  333127131,
+                                         "sha256":  "6ed979df8c5e210170bc9762a782800f58457eba648cc96da7c8f73248a0784f",
+                                         "fileName":  "KALE_Portable.zip"
+                                     },
+                         "mandatory":  false,
+                         "publishedAtUtc":  "2026-09-08T10:29:27.1838553Z",
+                         "releaseNotes":  "First-login password authority: central must_change_password; changeOwnPassword updates Supabase Auth without email OTP. Ghost toast silenced. FULL OTA only.",
+                         "target":  {
+                                        "mode":  "all"
+                                    },
+                         "manifestUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.27/manifest.json",
+                         "packageUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.27/KALE_Portable.zip"
+                     },
+                     {
+                         "schemaVersion":  2,
+                         "provider":  "github_releases",
+                         "channel":  "stable",
                          "version":  "60.3.26",
                          "buildId":  "kale-60326-20260907175443",
                          "releaseId":  "4f48f713-b67f-445d-b0f9-9d933b7b7b59",
@@ -481,5 +503,5 @@
                          "publishedAtUtc":  "2026-09-02T18:11:36.5959344Z"
                      }
                  ],
-    "updatedAtUtc":  "2026-09-07T18:01:35.9511053Z"
+    "updatedAtUtc":  "2026-09-08T10:37:35.0793419Z"
 }
