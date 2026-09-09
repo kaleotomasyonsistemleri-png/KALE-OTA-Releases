@@ -6,6 +6,28 @@
                          "schemaVersion":  2,
                          "provider":  "github_releases",
                          "channel":  "stable",
+                         "version":  "60.3.28",
+                         "buildId":  "kale-60328-20260909090245",
+                         "releaseId":  "a3e4d5a0-1395-41d6-bdd2-c07c3c832fb9",
+                         "tag":  "v60.3.28",
+                         "package":  {
+                                         "sizeBytes":  333132230,
+                                         "sha256":  "c70a6061d5d8d9720be72e01cc4afe677d7caf51f0b712f897066f9b520fa153",
+                                         "fileName":  "KALE_Portable.zip"
+                                     },
+                         "mandatory":  false,
+                         "publishedAtUtc":  "2026-09-09T09:13:05.3331045Z",
+                         "releaseNotes":  "Password/email production: first-login no OTP (central must_change_password), profile change real Gmail OTP + change_token, forgot password central Gmail only, remove demo 123456 / fake mail success, OTA first-login no re-arm.",
+                         "target":  {
+                                        "mode":  "all"
+                                    },
+                         "manifestUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.28/manifest.json",
+                         "packageUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.28/KALE_Portable.zip"
+                     },
+                     {
+                         "schemaVersion":  2,
+                         "provider":  "github_releases",
+                         "channel":  "stable",
                          "version":  "60.3.27",
                          "buildId":  "kale-60327-20260908102156",
                          "releaseId":  "4abf7ced-740f-4b33-9e6c-3b48c16648f3",
@@ -503,5 +525,5 @@
                          "publishedAtUtc":  "2026-09-02T18:11:36.5959344Z"
                      }
                  ],
-    "updatedAtUtc":  "2026-09-08T10:37:35.0793419Z"
+    "updatedAtUtc":  "2026-09-09T09:21:11.1532033Z"
 }
