@@ -6,6 +6,28 @@
                          "schemaVersion":  2,
                          "provider":  "github_releases",
                          "channel":  "stable",
+                         "version":  "60.3.29",
+                         "buildId":  "kale-60329-20260915122921",
+                         "releaseId":  "9152c3fd-44bc-4ecb-bfc8-ef49fae134b9",
+                         "tag":  "v60.3.29",
+                         "package":  {
+                                         "sizeBytes":  333128347,
+                                         "sha256":  "5274016c2c3d0d20593bfe60332410c7eccc93cb203b28904ed517a21df8456c",
+                                         "fileName":  "KALE_Portable.zip"
+                                     },
+                         "mandatory":  false,
+                         "publishedAtUtc":  "2026-09-15T12:59:04.1938623Z",
+                         "releaseNotes":  "Lisans sistemi kaldırma temizliği ve OTA güncelleme dayanıklılık düzeltmeleri. Gmail OAuth kapsam dışıdır.",
+                         "target":  {
+                                        "mode":  "all"
+                                    },
+                         "manifestUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.29/manifest.json",
+                         "packageUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.29/KALE_Portable.zip"
+                     },
+                     {
+                         "schemaVersion":  2,
+                         "provider":  "github_releases",
+                         "channel":  "stable",
                          "version":  "60.3.28",
                          "buildId":  "kale-60328-20260909090245",
                          "releaseId":  "a3e4d5a0-1395-41d6-bdd2-c07c3c832fb9",
@@ -525,5 +547,5 @@
                          "publishedAtUtc":  "2026-09-02T18:11:36.5959344Z"
                      }
                  ],
-    "updatedAtUtc":  "2026-09-09T09:21:11.1532033Z"
+    "updatedAtUtc":  "2026-09-15T13:00:17.4605680Z"
 }
