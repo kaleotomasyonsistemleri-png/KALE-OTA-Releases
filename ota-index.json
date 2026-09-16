@@ -6,6 +6,28 @@
                          "schemaVersion":  2,
                          "provider":  "github_releases",
                          "channel":  "stable",
+                         "version":  "60.3.33",
+                         "buildId":  "kale-60333-20260916155828",
+                         "releaseId":  "dd09c20c-22e0-4771-bc79-079aefc0829d",
+                         "tag":  "v60.3.33",
+                         "package":  {
+                                         "sizeBytes":  333134751,
+                                         "sha256":  "06b1fa6d274906f32ec03f90425ea6a956942ef8b5e86183056f8ac20683780a",
+                                         "fileName":  "KALE_Portable.zip"
+                                     },
+                         "mandatory":  false,
+                         "publishedAtUtc":  "2026-09-16T16:05:15.8504440Z",
+                         "releaseNotes":  "Firma UI/mail FAB, merkezi oturum kaliciligi, musteri silme cascade, sozlesme/limit/arac yonetimi kaldirma",
+                         "target":  {
+                                        "mode":  "all"
+                                    },
+                         "manifestUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.33/manifest.json",
+                         "packageUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.33/KALE_Portable.zip"
+                     },
+                     {
+                         "schemaVersion":  2,
+                         "provider":  "github_releases",
+                         "channel":  "stable",
                          "version":  "60.3.32",
                          "buildId":  "kale-60332-20260916135540",
                          "releaseId":  "0b8a1df3-e6d9-4a95-902d-9ac592cc0f0c",
@@ -613,5 +635,5 @@
                          "publishedAtUtc":  "2026-09-02T18:11:36.5959344Z"
                      }
                  ],
-    "updatedAtUtc":  "2026-09-16T14:58:12.8710716Z"
+    "updatedAtUtc":  "2026-09-16T16:06:26.7365024Z"
 }
