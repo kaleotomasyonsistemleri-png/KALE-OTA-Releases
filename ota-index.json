@@ -6,6 +6,28 @@
                          "schemaVersion":  2,
                          "provider":  "github_releases",
                          "channel":  "stable",
+                         "version":  "60.3.32",
+                         "buildId":  "kale-60332-20260916135540",
+                         "releaseId":  "0b8a1df3-e6d9-4a95-902d-9ac592cc0f0c",
+                         "tag":  "v60.3.32",
+                         "package":  {
+                                         "sizeBytes":  333142703,
+                                         "sha256":  "cbdf35cfaf2f84731680ef1c6040c5f398d98af0eda519bb50bd7dbf804d0018",
+                                         "fileName":  "KALE_Portable.zip"
+                                     },
+                         "mandatory":  false,
+                         "publishedAtUtc":  "2026-09-16T14:56:55.4999803Z",
+                         "releaseNotes":  "60.3.32 — Firma Supabase login CompanySnapshot hydrate (tank/pompa/prob/sayaç/araç PC2), boş snapshot overwrite koruması, snapshot JSON parse harden, Forbidden/admin chat fix, UI durum/alt başlık temizliği",
+                         "target":  {
+                                        "mode":  "all"
+                                    },
+                         "manifestUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.32/manifest.json",
+                         "packageUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.32/KALE_Portable.zip"
+                     },
+                     {
+                         "schemaVersion":  2,
+                         "provider":  "github_releases",
+                         "channel":  "stable",
                          "version":  "60.3.31",
                          "buildId":  "kale-60331-20260916100615",
                          "releaseId":  "b28c89dd-1de7-4dfa-9a4a-9922e6c25649",
@@ -591,5 +613,5 @@
                          "publishedAtUtc":  "2026-09-02T18:11:36.5959344Z"
                      }
                  ],
-    "updatedAtUtc":  "2026-09-16T10:13:04.3147171Z"
+    "updatedAtUtc":  "2026-09-16T14:58:12.8710716Z"
 }
