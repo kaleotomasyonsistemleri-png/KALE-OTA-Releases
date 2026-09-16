@@ -6,6 +6,28 @@
                          "schemaVersion":  2,
                          "provider":  "github_releases",
                          "channel":  "stable",
+                         "version":  "60.3.31",
+                         "buildId":  "kale-60331-20260916100615",
+                         "releaseId":  "b28c89dd-1de7-4dfa-9a4a-9922e6c25649",
+                         "tag":  "v60.3.31",
+                         "package":  {
+                                         "sizeBytes":  333136608,
+                                         "sha256":  "05b0556e2b1ab16d7733282d9bbcee769bfa34ce605087f8d31773521f4195fe",
+                                         "fileName":  "KALE_Portable.zip"
+                                     },
+                         "mandatory":  false,
+                         "publishedAtUtc":  "2026-09-16T10:11:50.4785628Z",
+                         "releaseNotes":  "Müşteri varlık senkronu: Admin ekipman CRUD Firma Paneline; tesis kilitli ekipman yönetimi; immutable firstActivatedAt; soft-delete; tenant-scoped SignalR/snapshot.",
+                         "target":  {
+                                        "mode":  "all"
+                                    },
+                         "manifestUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.31/manifest.json",
+                         "packageUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.31/KALE_Portable.zip"
+                     },
+                     {
+                         "schemaVersion":  2,
+                         "provider":  "github_releases",
+                         "channel":  "stable",
                          "version":  "60.3.30",
                          "buildId":  "kale-60330-20260915133912",
                          "releaseId":  "53024c7d-17f4-4fcb-abe8-4df1bc11cf74",
@@ -569,5 +591,5 @@
                          "publishedAtUtc":  "2026-09-02T18:11:36.5959344Z"
                      }
                  ],
-    "updatedAtUtc":  "2026-09-15T14:06:33.3528606Z"
+    "updatedAtUtc":  "2026-09-16T10:13:04.3147171Z"
 }
