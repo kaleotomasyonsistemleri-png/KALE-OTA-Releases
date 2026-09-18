@@ -1,9 +1,22 @@
 {
     "schemaVersion":  1,
     "channel":  "stable",
-    "latestVersion":  "60.3.33",
-    "updatedAtUtc":  "2026-09-16T16:15:48.7391565Z",
+    "latestVersion":  "60.3.34",
+    "updatedAtUtc":  "2026-09-18T09:23:28.3324688Z",
     "releases":  [
+                     {
+                         "targetVersion":  "60.3.34",
+                         "targetBuildId":  "kale-60334-20260918090117",
+                         "targetReleaseId":  "76c2eb6e-2a8f-466c-9c3b-ceda9a6d1ff9",
+                         "fullPackage":  {
+                                             "url":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.34/KALE_Portable.zip",
+                                             "size":  333137080,
+                                             "sha256":  "6c789cdb419c5d910533f4a78fce726fd25772acfadf25a927edf5978ede36c1"
+                                         },
+                         "deltas":  [
+
+                                    ]
+                     },
                      {
                          "targetVersion":  "60.3.33",
                          "targetBuildId":  "kale-60333-20260916155828",
