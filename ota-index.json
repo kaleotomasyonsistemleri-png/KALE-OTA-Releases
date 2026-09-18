@@ -6,6 +6,28 @@
                          "schemaVersion":  2,
                          "provider":  "github_releases",
                          "channel":  "stable",
+                         "version":  "60.3.34",
+                         "buildId":  "kale-60334-20260918090117",
+                         "releaseId":  "76c2eb6e-2a8f-466c-9c3b-ceda9a6d1ff9",
+                         "tag":  "v60.3.34",
+                         "package":  {
+                                         "sizeBytes":  333137080,
+                                         "sha256":  "6c789cdb419c5d910533f4a78fce726fd25772acfadf25a927edf5978ede36c1",
+                                         "fileName":  "KALE_Portable.zip"
+                                     },
+                         "mandatory":  false,
+                         "publishedAtUtc":  "2026-09-18T09:14:23.9753259Z",
+                         "releaseNotes":  "60.3.34: Quick Action Hub; sayac/cihaz silme ve musteri cihaz sayaci duzeltmeleri; silinen musterilerin PC-2\u0027de kalmasi ve offline login bypass duzeltmeleri (Realtime hard-purge, revoke gate, archive reconciliation).",
+                         "target":  {
+                                        "mode":  "all"
+                                    },
+                         "manifestUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.34/manifest.json",
+                         "packageUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.34/KALE_Portable.zip"
+                     },
+                     {
+                         "schemaVersion":  2,
+                         "provider":  "github_releases",
+                         "channel":  "stable",
                          "version":  "60.3.33",
                          "buildId":  "kale-60333-20260916155828",
                          "releaseId":  "dd09c20c-22e0-4771-bc79-079aefc0829d",
@@ -635,5 +657,5 @@
                          "publishedAtUtc":  "2026-09-02T18:11:36.5959344Z"
                      }
                  ],
-    "updatedAtUtc":  "2026-09-16T16:06:26.7365024Z"
+    "updatedAtUtc":  "2026-09-18T09:15:41.4596900Z"
 }
