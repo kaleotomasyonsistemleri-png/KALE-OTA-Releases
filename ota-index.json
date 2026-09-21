@@ -6,6 +6,28 @@
                          "schemaVersion":  2,
                          "provider":  "github_releases",
                          "channel":  "stable",
+                         "version":  "60.3.35",
+                         "buildId":  "kale-60335-20260921174542",
+                         "releaseId":  "46e00b06-a5f1-4c04-b666-539f8d53a1e2",
+                         "tag":  "v60.3.35",
+                         "package":  {
+                                         "sizeBytes":  333139709,
+                                         "sha256":  "c53488322c8024bceec0f54f7dea150f171b1975200191a6c8126860415d83c5",
+                                         "fileName":  "KALE_Portable.zip"
+                                     },
+                         "mandatory":  false,
+                         "publishedAtUtc":  "2026-09-21T17:51:47.7257735Z",
+                         "releaseNotes":  "60.3.35: Musteri kurulum sihirbazi sadeleştirme (seri no opsiyonel, hardcode geometri kaldirildi); tank/pompa/cihaz tenant baglama + CompanySnapshot soft-delete/bos-overwrite korumasi; silinen musteri login/firma listesi/mesaj silme duzeltmeleri.",
+                         "target":  {
+                                        "mode":  "all"
+                                    },
+                         "manifestUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.35/manifest.json",
+                         "packageUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.35/KALE_Portable.zip"
+                     },
+                     {
+                         "schemaVersion":  2,
+                         "provider":  "github_releases",
+                         "channel":  "stable",
                          "version":  "60.3.34",
                          "buildId":  "kale-60334-20260918090117",
                          "releaseId":  "76c2eb6e-2a8f-466c-9c3b-ceda9a6d1ff9",
@@ -657,5 +679,5 @@
                          "publishedAtUtc":  "2026-09-02T18:11:36.5959344Z"
                      }
                  ],
-    "updatedAtUtc":  "2026-09-18T09:15:41.4596900Z"
+    "updatedAtUtc":  "2026-09-21T17:55:10.3638568Z"
 }
