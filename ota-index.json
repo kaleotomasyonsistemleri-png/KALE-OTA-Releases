@@ -6,6 +6,28 @@
                          "schemaVersion":  2,
                          "provider":  "github_releases",
                          "channel":  "stable",
+                         "version":  "60.3.36",
+                         "buildId":  "kale-60336-20260924201622",
+                         "releaseId":  "87288734-11b9-43b0-ae35-1b413f8082d7",
+                         "tag":  "v60.3.36",
+                         "package":  {
+                                         "sizeBytes":  333175398,
+                                         "sha256":  "e75df45ae78573cdd3cd692df0e15e68f8510f43977e6506cf3f5073e8bba83b",
+                                         "fileName":  "KALE_Portable.zip"
+                                     },
+                         "mandatory":  false,
+                         "publishedAtUtc":  "2026-09-24T20:24:57.0137757Z",
+                         "releaseNotes":  "Login: KONTROL GUVEN SUREKLILIK saga alindi. Alt ortaya telif satiri eklendi.",
+                         "target":  {
+                                        "mode":  "all"
+                                    },
+                         "manifestUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.36/manifest.json",
+                         "packageUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.36/KALE_Portable.zip"
+                     },
+                     {
+                         "schemaVersion":  2,
+                         "provider":  "github_releases",
+                         "channel":  "stable",
                          "version":  "60.3.35",
                          "buildId":  "kale-60335-20260921174542",
                          "releaseId":  "46e00b06-a5f1-4c04-b666-539f8d53a1e2",
@@ -679,5 +701,5 @@
                          "publishedAtUtc":  "2026-09-02T18:11:36.5959344Z"
                      }
                  ],
-    "updatedAtUtc":  "2026-09-21T17:55:10.3638568Z"
+    "updatedAtUtc":  "2026-09-24T20:28:23.8001140Z"
 }
