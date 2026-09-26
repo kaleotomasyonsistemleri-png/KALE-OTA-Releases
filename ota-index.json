@@ -6,6 +6,28 @@
                          "schemaVersion":  2,
                          "provider":  "github_releases",
                          "channel":  "stable",
+                         "version":  "60.3.38",
+                         "buildId":  "kale-60338-20260926185717",
+                         "releaseId":  "757d074b-d047-4879-9e45-05d6edf6343d",
+                         "tag":  "v60.3.38",
+                         "package":  {
+                                         "sizeBytes":  333177874,
+                                         "sha256":  "43f7c67945a174a4fcdf9d7facfbd4f6f302f09721ea1277e3fcfb1924ecba46",
+                                         "fileName":  "KALE_Portable.zip"
+                                     },
+                         "mandatory":  false,
+                         "publishedAtUtc":  "2026-09-26T19:10:20.2794984Z",
+                         "releaseNotes":  "60.3.38: Firma panelinde tank ve cihazlar birkaç saniye sonra kaybolmaz. Bos Host paketi merkezi kaydin uzerine yazilmaz.",
+                         "target":  {
+                                        "mode":  "all"
+                                    },
+                         "manifestUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.38/manifest.json",
+                         "packageUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.38/KALE_Portable.zip"
+                     },
+                     {
+                         "schemaVersion":  2,
+                         "provider":  "github_releases",
+                         "channel":  "stable",
                          "version":  "60.3.37",
                          "buildId":  "kale-60337-20260926174522",
                          "releaseId":  "e92f47c6-13db-41f5-8fff-4fdfe919e946",
@@ -723,5 +745,5 @@
                          "publishedAtUtc":  "2026-09-02T18:11:36.5959344Z"
                      }
                  ],
-    "updatedAtUtc":  "2026-09-26T18:02:20.4320979Z"
+    "updatedAtUtc":  "2026-09-26T19:13:40.9500580Z"
 }
