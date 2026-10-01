@@ -6,6 +6,28 @@
                          "schemaVersion":  2,
                          "provider":  "github_releases",
                          "channel":  "stable",
+                         "version":  "60.3.40",
+                         "buildId":  "kale-60340-20261001082414",
+                         "releaseId":  "1a1f2a28-c1ea-4930-86da-c85ee6bc3307",
+                         "tag":  "v60.3.40",
+                         "package":  {
+                                         "sizeBytes":  333274279,
+                                         "sha256":  "45a50e2ee608519be47301aa127ef15b25d39a97955038f605f5f69e46490399",
+                                         "fileName":  "KALE_Portable.zip"
+                                     },
+                         "mandatory":  false,
+                         "publishedAtUtc":  "2026-10-01T08:41:29.4380098Z",
+                         "releaseNotes":  "Engineering first-setup accepts the local Firma Paneli session.",
+                         "target":  {
+                                        "mode":  "all"
+                                    },
+                         "manifestUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.40/manifest.json",
+                         "packageUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.40/KALE_Portable.zip"
+                     },
+                     {
+                         "schemaVersion":  2,
+                         "provider":  "github_releases",
+                         "channel":  "stable",
                          "version":  "60.3.39",
                          "buildId":  "kale-60339-20261001053327",
                          "releaseId":  "887e9871-39ba-44de-a34f-0c7372739749",
@@ -767,5 +789,5 @@
                          "publishedAtUtc":  "2026-09-02T18:11:36.5959344Z"
                      }
                  ],
-    "updatedAtUtc":  "2026-10-01T05:46:15.2608488Z"
+    "updatedAtUtc":  "2026-10-01T08:42:24.1917677Z"
 }
