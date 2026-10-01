@@ -6,6 +6,28 @@
                          "schemaVersion":  2,
                          "provider":  "github_releases",
                          "channel":  "stable",
+                         "version":  "60.3.41",
+                         "buildId":  "kale-60341-20261001171044",
+                         "releaseId":  "275a41b2-4e2c-4dcc-a6f1-d89936e7477e",
+                         "tag":  "v60.3.41",
+                         "package":  {
+                                         "sizeBytes":  333274815,
+                                         "sha256":  "fda780a77a2abd28fb13ea329473230a80d5bdf1c203de4b90dd92c071041809",
+                                         "fileName":  "KALE_Portable.zip"
+                                     },
+                         "mandatory":  false,
+                         "publishedAtUtc":  "2026-10-01T17:16:58.9613705Z",
+                         "releaseNotes":  "Firma paneli oturumu engineering sifre kurulumunu kabul eder.",
+                         "target":  {
+                                        "mode":  "all"
+                                    },
+                         "manifestUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.41/manifest.json",
+                         "packageUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.41/KALE_Portable.zip"
+                     },
+                     {
+                         "schemaVersion":  2,
+                         "provider":  "github_releases",
+                         "channel":  "stable",
                          "version":  "60.3.40",
                          "buildId":  "kale-60340-20261001082414",
                          "releaseId":  "1a1f2a28-c1ea-4930-86da-c85ee6bc3307",
@@ -789,5 +811,5 @@
                          "publishedAtUtc":  "2026-09-02T18:11:36.5959344Z"
                      }
                  ],
-    "updatedAtUtc":  "2026-10-01T08:42:24.1917677Z"
+    "updatedAtUtc":  "2026-10-01T17:20:34.3857284Z"
 }
