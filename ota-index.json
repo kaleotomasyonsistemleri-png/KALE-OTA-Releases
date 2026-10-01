@@ -6,6 +6,28 @@
                          "schemaVersion":  2,
                          "provider":  "github_releases",
                          "channel":  "stable",
+                         "version":  "60.3.39",
+                         "buildId":  "kale-60339-20261001053327",
+                         "releaseId":  "887e9871-39ba-44de-a34f-0c7372739749",
+                         "tag":  "v60.3.39",
+                         "package":  {
+                                         "sizeBytes":  333273386,
+                                         "sha256":  "4b51dd22c64f871b20511bc6928bf05f50b1adc11cefffe8360966979ec9a0c4",
+                                         "fileName":  "KALE_Portable.zip"
+                                     },
+                         "mandatory":  false,
+                         "publishedAtUtc":  "2026-10-01T05:42:08.4562539Z",
+                         "releaseNotes":  "Engineering credential first-setup: local Edge password, hash-only storage, IAM bootstrap separated from Engineering login.",
+                         "target":  {
+                                        "mode":  "all"
+                                    },
+                         "manifestUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.39/manifest.json",
+                         "packageUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.39/KALE_Portable.zip"
+                     },
+                     {
+                         "schemaVersion":  2,
+                         "provider":  "github_releases",
+                         "channel":  "stable",
                          "version":  "60.3.38",
                          "buildId":  "kale-60338-20260926185717",
                          "releaseId":  "757d074b-d047-4879-9e45-05d6edf6343d",
@@ -745,5 +767,5 @@
                          "publishedAtUtc":  "2026-09-02T18:11:36.5959344Z"
                      }
                  ],
-    "updatedAtUtc":  "2026-09-26T19:13:40.9500580Z"
+    "updatedAtUtc":  "2026-10-01T05:46:15.2608488Z"
 }
