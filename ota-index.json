@@ -6,6 +6,28 @@
                          "schemaVersion":  2,
                          "provider":  "github_releases",
                          "channel":  "stable",
+                         "version":  "60.3.42",
+                         "buildId":  "kale-60342-20261003155946",
+                         "releaseId":  "b2d775e6-6ec0-4e47-acf8-2be8d90cc149",
+                         "tag":  "v60.3.42",
+                         "package":  {
+                                         "sizeBytes":  347035877,
+                                         "sha256":  "a3829f6dd3f1b777ef5cff8a93c3ba7552d3359399246bb386787982826b3e90",
+                                         "fileName":  "KALE_Portable.zip"
+                                     },
+                         "mandatory":  false,
+                         "publishedAtUtc":  "2026-10-03T16:14:25.4644223Z",
+                         "releaseNotes":  "KALE 60.3.42. Probe COM foundation for field test. Vendor protocols remain specification-required.",
+                         "target":  {
+                                        "mode":  "all"
+                                    },
+                         "manifestUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.42/manifest.json",
+                         "packageUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.42/KALE_Portable.zip"
+                     },
+                     {
+                         "schemaVersion":  2,
+                         "provider":  "github_releases",
+                         "channel":  "stable",
                          "version":  "60.3.41",
                          "buildId":  "kale-60341-20261001171044",
                          "releaseId":  "275a41b2-4e2c-4dcc-a6f1-d89936e7477e",
@@ -811,5 +833,5 @@
                          "publishedAtUtc":  "2026-09-02T18:11:36.5959344Z"
                      }
                  ],
-    "updatedAtUtc":  "2026-10-01T17:20:34.3857284Z"
+    "updatedAtUtc":  "2026-10-03T16:18:00.3434095Z"
 }
