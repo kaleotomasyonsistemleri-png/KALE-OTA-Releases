@@ -6,6 +6,28 @@
                          "schemaVersion":  2,
                          "provider":  "github_releases",
                          "channel":  "stable",
+                         "version":  "60.3.44",
+                         "buildId":  "kale-60344-20261004162138",
+                         "releaseId":  "42812e81-a10b-4eb5-b62b-fa416ce15336",
+                         "tag":  "v60.3.44",
+                         "package":  {
+                                         "sizeBytes":  347037713,
+                                         "sha256":  "18d2df120268dcbf690cc6e47a81bd53f43bf404cd821b5e395dbe6368928ad8",
+                                         "fileName":  "KALE_Portable.zip"
+                                     },
+                         "mandatory":  false,
+                         "publishedAtUtc":  "2026-10-04T16:40:48.1010614Z",
+                         "releaseNotes":  "KALE 60.3.44. OTA install health probe uses PostgreSQL so the update no longer fails on every PC.",
+                         "target":  {
+                                        "mode":  "all"
+                                    },
+                         "manifestUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.44/manifest.json",
+                         "packageUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.44/KALE_Portable.zip"
+                     },
+                     {
+                         "schemaVersion":  2,
+                         "provider":  "github_releases",
+                         "channel":  "stable",
                          "version":  "60.3.43",
                          "buildId":  "kale-60343-20261003173322",
                          "releaseId":  "08502d14-e5fb-44d0-b7d0-5bd47b207cab",
@@ -855,5 +877,5 @@
                          "publishedAtUtc":  "2026-09-02T18:11:36.5959344Z"
                      }
                  ],
-    "updatedAtUtc":  "2026-10-03T17:51:56.2611191Z"
+    "updatedAtUtc":  "2026-10-04T16:44:20.3884670Z"
 }
