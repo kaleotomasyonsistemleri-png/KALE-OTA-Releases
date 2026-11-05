@@ -6,6 +6,28 @@
                          "schemaVersion":  2,
                          "provider":  "github_releases",
                          "channel":  "stable",
+                         "version":  "60.3.49",
+                         "buildId":  "kale-60349-20261105203257",
+                         "releaseId":  "0f2cbb25-bf21-42ff-b1b7-fa62dc19f4d4",
+                         "tag":  "v60.3.49",
+                         "package":  {
+                                         "sizeBytes":  347235150,
+                                         "sha256":  "b28d0cbb71904219441ce0841a6cbc7f4e6e91d9892584b729426f9792c3e22a",
+                                         "fileName":  "KALE_Portable.zip"
+                                     },
+                         "mandatory":  false,
+                         "publishedAtUtc":  "2026-11-05T20:42:31.1887548Z",
+                         "releaseNotes":  "KALE 60.3.49. Firma paneli sol menuden Profil kaldirildi. Profil sag ust menude duruyor.",
+                         "target":  {
+                                        "mode":  "all"
+                                    },
+                         "manifestUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.49/manifest.json",
+                         "packageUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.49/KALE_Portable.zip"
+                     },
+                     {
+                         "schemaVersion":  2,
+                         "provider":  "github_releases",
+                         "channel":  "stable",
                          "version":  "60.3.48",
                          "buildId":  "kale-60348-20261105200315",
                          "releaseId":  "7500079f-7d68-4bc3-b791-02b0fde6228b",
@@ -943,5 +965,5 @@
                          "publishedAtUtc":  "2026-09-02T18:11:36.5959344Z"
                      }
                  ],
-    "updatedAtUtc":  "2026-11-05T20:17:02.2350279Z"
+    "updatedAtUtc":  "2026-11-05T20:46:04.0696300Z"
 }
