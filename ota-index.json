@@ -6,6 +6,28 @@
                          "schemaVersion":  2,
                          "provider":  "github_releases",
                          "channel":  "stable",
+                         "version":  "60.3.48",
+                         "buildId":  "kale-60348-20261105200315",
+                         "releaseId":  "7500079f-7d68-4bc3-b791-02b0fde6228b",
+                         "tag":  "v60.3.48",
+                         "package":  {
+                                         "sizeBytes":  347234876,
+                                         "sha256":  "594e01c95e4e9c3556ddf4cbaed4a2bd59598672c9644d2ecebbbd34e253b25c",
+                                         "fileName":  "KALE_Portable.zip"
+                                     },
+                         "mandatory":  false,
+                         "publishedAtUtc":  "2026-11-05T20:13:26.3210611Z",
+                         "releaseNotes":  "KALE 60.3.48. Firma panelinde profil sekmesi duzeltildi. Guncelleme penceresi yuzde ile yenilendi.",
+                         "target":  {
+                                        "mode":  "all"
+                                    },
+                         "manifestUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.48/manifest.json",
+                         "packageUrl":  "https://github.com/kaleotomasyonsistemleri-png/KALE-OTA-Releases/releases/download/v60.3.48/KALE_Portable.zip"
+                     },
+                     {
+                         "schemaVersion":  2,
+                         "provider":  "github_releases",
+                         "channel":  "stable",
                          "version":  "60.3.47",
                          "buildId":  "kale-60347-20261105191116",
                          "releaseId":  "972ab08d-9068-4eb6-b993-05bd30203160",
@@ -921,5 +943,5 @@
                          "publishedAtUtc":  "2026-09-02T18:11:36.5959344Z"
                      }
                  ],
-    "updatedAtUtc":  "2026-11-05T19:25:04.2607268Z"
+    "updatedAtUtc":  "2026-11-05T20:17:02.2350279Z"
 }
